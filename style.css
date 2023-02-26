@@ -21,7 +21,7 @@ body{
     text-align: center;
     /* margin: auto; */
     background-color: aqua;
-    background:url(/background/gambar/image2.png) no-repeat center center fixed;
+    background:url(./img/4.png) no-repeat center center fixed;
     background-size: cover;
     padding: 30px;
 }
